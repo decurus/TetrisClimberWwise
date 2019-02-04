@@ -551,6 +551,27 @@
 							</CueList>
 						</MusicSegment>
 					</ChildrenList>
+					<StateInfo>
+						<StateGroupList>
+							<StateGroupInfo>
+								<StateGroupRef Name="PlayState" ID="{F13EBD3B-4AD2-4158-8790-0DE94F098D58}"/>
+							</StateGroupInfo>
+						</StateGroupList>
+						<CustomStateList>
+							<CustomState>
+								<StateRef Name="Pausing" ID="{A192AA40-CB8C-4AD3-8619-4DB0EF48BF59}"/>
+								<State Name="" ID="{0B95B601-BB0D-4E01-9972-2F92ED5A00E3}" ShortID="640309116">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64" Value="-12"/>
+									</PropertyList>
+								</State>
+							</CustomState>
+							<CustomState>
+								<StateRef Name="Playing" ID="{44C952A5-2020-4E18-B4AA-F733E595CB5D}"/>
+								<State Name="" ID="{1F6E9867-08A8-4408-B322-A5FFB7934298}" ShortID="825055938"/>
+							</CustomState>
+						</CustomStateList>
+					</StateInfo>
 					<TransitionList>
 						<MusicTransition Name="Root" ID="{BA243538-0261-485C-8430-33160230A8F4}">
 							<PropertyList>
