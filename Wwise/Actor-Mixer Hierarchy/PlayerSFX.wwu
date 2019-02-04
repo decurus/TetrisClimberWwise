@@ -110,6 +110,9 @@
 							</ModifierList>
 						</Property>
 						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>380</Value>
+							</ValueList>
 							<ModifierList>
 								<ModifierInfo>
 									<Modifier Name="" ID="{6166EB03-C432-4645-ACF0-79F093B17069}">

@@ -14,7 +14,11 @@
 							<Position X="0" Y="1"/>
 						</Module>
 						<Module>
-							<ObjectRef Name="Laser" ID="{9D8B5459-8F81-4346-962A-57F7B556597C}" WorkUnitID="{035B1F1F-FE5D-4F3D-B36C-34B1898CC711}"/>
+							<ObjectRef Name="DestroyBlock" ID="{EB06B2B7-0BF0-4C6A-B6B9-86188E6B938A}" WorkUnitID="{976382F9-AB48-47A9-97DC-11E081474677}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Laser" ID="{9D8B5459-8F81-4346-962A-57F7B556597C}" WorkUnitID="{976382F9-AB48-47A9-97DC-11E081474677}"/>
 							<Position X="2" Y="0"/>
 						</Module>
 						<Module>
