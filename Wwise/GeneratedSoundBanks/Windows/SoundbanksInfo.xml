@@ -49,7 +49,7 @@
 				</File>
 				<File Id="149838036" Language="SFX">
 					<ShortName>sfx_destroyBlock_07.wav</ShortName>
-					<Path>SFX/sfx_destroyBlock_07_AC54D7B8.wem</Path>
+					<Path>SFX/sfx_destroyBlock_07_0A01A900.wem</Path>
 				</File>
 				<File Id="274342202" Language="SFX">
 					<ShortName>FootStep_07.wav</ShortName>
@@ -61,7 +61,7 @@
 				</File>
 				<File Id="360434965" Language="SFX">
 					<ShortName>sfx_destroyBlock_09.wav</ShortName>
-					<Path>SFX/sfx_destroyBlock_09_44AE67D8.wem</Path>
+					<Path>SFX/sfx_destroyBlock_09_25453401.wem</Path>
 				</File>
 				<File Id="399191169" Language="SFX">
 					<ShortName>Game_v2.7.wav</ShortName>
@@ -109,7 +109,7 @@
 				</File>
 				<File Id="638468395" Language="SFX">
 					<ShortName>Die.wav</ShortName>
-					<Path>SFX/Die_42247BCC.wem</Path>
+					<Path>SFX/Die_95D70B22.wem</Path>
 				</File>
 				<File Id="642461171" Language="SFX">
 					<ShortName>FootStep_06.wav</ShortName>
@@ -157,7 +157,7 @@
 				</File>
 				<File Id="1012470945" Language="SFX">
 					<ShortName>sfx_destroyBlock_06.wav</ShortName>
-					<Path>SFX/sfx_destroyBlock_06_29229FD8.wem</Path>
+					<Path>SFX/sfx_destroyBlock_06_F69F52FA.wem</Path>
 				</File>
 				<File Id="1015403401" Language="SFX">
 					<ShortName>FootStep_05.wav</ShortName>
